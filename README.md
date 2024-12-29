@@ -1,2 +1,2 @@
 # odin-recipes
-Recpie Website project for The Odin Project
+Recpie Website Project for The Odin Project
